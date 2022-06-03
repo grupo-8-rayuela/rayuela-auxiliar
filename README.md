@@ -1,17 +1,20 @@
 #  RAYUELA
 
+> 
+Rayuela es un proyecto integrador del curso de Programación web full stack que ofrece Digital House. El objetivo es desarrollar un sitio web.
 
+##### Integrantes:
 
-**Rayuela es un proyecto de un sitio web**   
-
-### Integrantes:
-Estudiantes del curso de Programación web full stack que ofrece Digital House:
+------------
 - Cintia Moll
 - Denise Arcuri
-- Pablo Simkievich
+- [Pablo Simkievich](https://github.com/pablosimkievich "Pablo Simkievich")
 - [RominaRodes](https://github.com/RominaRode "Perfil de GitHub")
 
 ------------
+
+#### Temática del Market Place
+
 Rayuela será un e-commerce que **ofrecerá juguetes orientados a la filosofía Montessori**. Estos son juguetes didácticos que permiten que los niños potencien al máximo el desarrollo de sus habilidades y capacidades y por lo general cumplen con las siguientes carracteristicas:
 
 1. Suponen algún tipo de aprendizaje (lógico, matemático, sensorial…)
@@ -20,12 +23,16 @@ Rayuela será un e-commerce que **ofrecerá juguetes orientados a la filosofía 
 1. No están clasificados por edades, sino por las capacidades e intereses del niño.
 1. Las posibilidades de juego deben presentarse de menor a mayor dificultad.
 
+------------
+
+
+#### Público objetivo
 
 El** público** al que apunta el sitio son **padres** y, adultos en general ,interesados en que sus hijos, mientras juegan, desarrollen la motricidad, la creatividad, la cognición y las emociones. 
 
 ------------
 #### Referentes:
-Si bien todos los sitos de juguetes son muy similares, nos parece importante destacar ciertas caracteristicas.
+Nos parece importante destacar ciertas caracteristicas de algunos sitios de interes:
 
 ##### https://capenane.cl/
 Tienda de  juguetes que estimulan el juego libre y creativo. Nos pareció interesante su funcionalidad al mostrar los productos que ofrece por categorías, edades y rango de precios.
