@@ -1,7 +1,7 @@
 .banner img {
-    width: 100%;
-    height: 40em;
-}
+    width: 90vw;
+    display: block;
+    }
 #menu {
     background-color: rgb(189,212,213);
 
@@ -9,8 +9,8 @@
 }
 #logo {
     display: block;
-    width: 10%;
-    margin: auto;
+    width: 200px;
+    margin: left;
 }
 
 .my-account a i{
@@ -47,4 +47,10 @@
 }
 #amarillo {
     background-color: rgb(225,171,2);
+}
+.texto {
+    width: 80vw;
+    padding: 15px;
+    border:  solid black 5px;
+    box-sizing: content-box;
 }
